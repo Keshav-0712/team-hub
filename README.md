@@ -1,1 +1,1 @@
-# team-hub
+print("hello world")
