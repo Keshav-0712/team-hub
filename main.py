@@ -1,6 +1,5 @@
-#print("hello world")
-#print("keshav")
-#print("hello")
+ keshav
+
 
 
 import random
@@ -44,3 +43,7 @@ while True :
     if play_again != "y":
         print("goodbye ")
         break
+
+print("Danny")
+print("sammy")
+main
